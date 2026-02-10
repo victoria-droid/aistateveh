@@ -1,0 +1,5 @@
+tx_id,amount,device_risk,account_age_days,tx_count_5m,tx_amount_1h,review_capacity_remaining
+T1,35,0.1,120,1,35,5
+T2,220,0.6,3,6,540,2
+T3,480,0.8,10,9,980,0
+T4,75,0.3,30,2,120,5

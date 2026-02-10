@@ -1,0 +1,4 @@
+scenario,on_hand,in_transit,forecast_next,moq,multiple,holding_cost,stockout_cost,order_fixed_cost
+S1,60,20,55,12,6,0.06,3.5,18
+S2,15,0,40,24,12,0.05,5.0,15
+S3,120,60,70,0,1,0.08,2.5,20
